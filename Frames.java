@@ -9,7 +9,7 @@ class Frames{
         
         // JFrame = a GUI window to add components to
 
-        JFrame frame = new JFrame();
+        JFrame frame = new JFrame(); // actual initialization
         frame.setTitle("Caluclator"); // it set a title in that window
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Exit out of application when we close that
         frame.setResizable(false); // prevent frame from being resize
