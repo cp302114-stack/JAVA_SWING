@@ -19,7 +19,7 @@ class Lable{
         JLabel label = new JLabel(); // create a lable
         label.setText("Bro , do you even code?"); // adds a text in main window
         label.setIcon(image);
-        // seting text position in hr or vr 
+        // seting text position in hr or vr  
 
         label.setHorizontalTextPosition(JLabel.CENTER);  // set text , left , center , right of imageicon
         label.setVerticalTextPosition(JLabel.TOP); // set text top , center , bottom of imageicon
